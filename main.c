@@ -6,4 +6,5 @@ int main()
     printf("Hello, School\n");
   }
   return 0;
+  git commit -m " I hope Im doing this part right. Im Dazniel Maldonado And I think Im done."
 }
